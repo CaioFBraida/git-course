@@ -1,12 +1,9 @@
 # Github
 
-arquivo git github iniciateS - repositorio teste
+arquivo git github iniciates - repositório teste
 
-UbL
+UBL
 
-continuando o teste 
-
-mais um teste 
 
 
 

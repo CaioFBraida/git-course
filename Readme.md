@@ -1,11 +1,5 @@
 # Github
 
-arquivo git github iniciateS - repositorio teste
-
-CURSO DE **git git hub**
-continuando o teste 
-
-mais um teste *iatlico*
-
+Repositório teste de funcionalidades git e github
 
 
